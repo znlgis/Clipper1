@@ -1,0 +1,1 @@
+See https://github.com/AngusJohnson/Clipper2
